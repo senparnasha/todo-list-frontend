@@ -1,0 +1,18 @@
+.App {
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 90px;
+}
+body{
+  background-color:#0077b6;
+}
+.white-box{
+  height: 400px;
+  width: 26%;
+  background-color: #CAF0F8;
+  border-radius: 8px;
+ 
+  
+}
