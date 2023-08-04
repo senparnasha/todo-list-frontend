@@ -1,12 +1,12 @@
 .App {
-  
+  color:#CAF0F8 ;
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top: 90px;
+  margin-top: 40px;
 }
 body{
-  background-color:#0077b6;
+  background-color:#03045E !important;
 }
 .white-box{
   height: 400px;
@@ -15,4 +15,10 @@ body{
   border-radius: 8px;
  
   
+}
+.heading{
+  color:#CAF0F8;
+  text-align: center;
+  padding-top: 50px;
+  font-weight: bold;
 }

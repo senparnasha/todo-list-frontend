@@ -9,14 +9,15 @@
     
 }
 .btn{
-    background-color: #00B4D8;
-    color: #CAF0F8;
+    background-color: #00B4D8 !important;
+    color: #CAF0F8 !important;
  margin-left: 18px;
     height: 38px;
     width: 59px;
     font-size: 14px;
-    font-weight: 600;
+    font-weight: bold;
     border-radius: 3px;
-    border:none
+    border:none;
+    font-family: arial;
     
 }
